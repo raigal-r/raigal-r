@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm raquel (rachel if you prefer!)</h1>
+<h1 align="center">Hi 👋, I'm raquel (or rachel if you prefer!)</h1>
 <h3 align="center">A passionate web3 developer from Barcelona with a background in electronics</h3>
 
 # 💫 About Me:
