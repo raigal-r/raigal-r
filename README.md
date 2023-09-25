@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raquel (Rachel if you prefer!)</h1>
+<h1 align="center">Hi 👋, I'm raquel (rachel if you prefer!)</h1>
 <h3 align="center">A passionate web3 developer from Barcelona with a background in electronics</h3>
+
+<img align="right" alt="Coding girl gift" width="400" src="https://i.gifer.com/3Ayb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raigal-r&label=Profile%20views&color=0e75b6&style=flat" alt="raigal-r" /> </p>
 
