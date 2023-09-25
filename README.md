@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raigal-r
-- 👀 I’m interested in Blockchain.
-- 🌱 I’m currently learning Smart Contracts programming, ZK proof
+- 👀 Blockchain.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
