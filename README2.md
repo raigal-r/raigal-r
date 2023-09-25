@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web3 developer from Barcelona with a background in electronics</h3>
 
 # 💫 About Me:
- 👩🏻‍💻 I'm currently working on [PEERUP]( https://github.com/PEERWORK ), a dApp to democratizing entrepreneurship and helping hackathon projects take off<br> 👯‍♀️ always open to collaborating on web3 opensource projects. Love to add to the community!<br> 🤝 feel free to contact me if you feel I could help you<br> 🧠 always trying to learn new skills, deeply interested in ZK and blockchain. <br> 💬 I love to chat, ask me anything, but not really anything, you know. <br> ⚡️ Fun fact: 
+ 👩🏻‍💻 I'm currently working on [PEERUP]( https://github.com/PEERWORK ), a dApp to democratizing entrepreneurship and helping hackathon projects take off as DAOs<br> 👯‍♀️ always open to collaborating on web3 opensource projects. Love to add to the community!<br> 🤝 feel free to contact me if you feel I could help you<br> 🧠 always trying to learn new skills, deeply interested in ZK and blockchain. <br> 💬 I love to chat, ask me anything, but not really anything, you know. <br> ⚡️ Fun fact: 
 
 
 ## 🌐 Socials:
