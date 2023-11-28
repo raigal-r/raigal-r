@@ -5,7 +5,8 @@
 
 # 💫 About Me:
 👩🏻‍💻 I'm a hackathonholic: 
-     <ul></li>🏆 ETH Global Lisbon Finalist with [Dookies](https://ethglobal.com/showcase/dookies-0g13u)</li>
+     <ul>
+     </li>🏆 ETH Global Lisbon Finalist with [Dookies](https://ethglobal.com/showcase/dookies-0g13u)</li>
      <li>🥇 ETH Prague - Community, Activism & Accessibility Award with [PEERUP](https://devfolio.co/projects/peer-up-e096)</li>
      <li>🥇 ETH Barcelona - Best Project in the Public Goods, Impact, Education Track with [PEERVOTE](https://devfolio.co/projects/peervote-5c90)</li>
      <li>🥇🥇 HackZuzalu Istanbul - ZK track & Social track with [ZuAstro](https://dorahacks.io/buidl/7976)</li>
