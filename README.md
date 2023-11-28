@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel (or Rachel if you prefer!)</h1>
 <h3 align="center">A passionate web3 developer from Barcelona with a background in electronics</h3>
-<h3 align="center">& a big hackathonholic</h3>
 
 
 # 💫 About Me:
