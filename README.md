@@ -5,12 +5,12 @@
 
 # 💫 About Me:
  👩🏻‍💻 I'm a hackathonholic: 
-     </br>🏆 ETH Global Lisbon Finalist with [Dookies](https://ethglobal.com/showcase/dookies-0g13u)
-     </br>🥇 ETH Prague - Community, Activism & Accessibility Award with [PEERUP](https://devfolio.co/projects/peer-up-e096)
-     </br>🥇 ETH Barcelona - Best Project in the Public Goods, Impact, Education Track with [PEERVOTE](https://devfolio.co/projects/peervote-5c90)
-     </br>🥇🥇 HackZuzalu Istanbul - ZK track & Social track with [ZuAstro](https://dorahacks.io/buidl/7976)
-     </br>🏆 ETH Global Istanbul Finalist with [BuddyGuard]()
-     </br>
+     </br><ul>🏆 ETH Global Lisbon Finalist with [Dookies](https://ethglobal.com/showcase/dookies-0g13u)</li>
+     </br><li>🥇 ETH Prague - Community, Activism & Accessibility Award with [PEERUP](https://devfolio.co/projects/peer-up-e096)</li>
+     </br><li>🥇 ETH Barcelona - Best Project in the Public Goods, Impact, Education Track with [PEERVOTE](https://devfolio.co/projects/peervote-5c90)</li>
+     </br><li>🥇🥇 HackZuzalu Istanbul - ZK track & Social track with [ZuAstro](https://dorahacks.io/buidl/7976)</li>
+     </br><li>🏆 ETH Global Istanbul Finalist with [BuddyGuard]()</li>
+     </br></ul>
 </br>👩🏻‍🔧 I'm currently working on [PEERUP]( https://github.com/PEERWORK ), a dApp to democratizing entrepreneurship and helping hackathon projects take off as DAOs<br> 👯‍♀️ always open to collaborating on web3 opensource projects. I love to add to the community!<br> 🤝 feel free to contact me if you feel I could help you<br> 🧠 always trying to learn new skills, I am deeply interested in ZK and blockchain. <br> 💬 I love to chat, ask me anything, but not really anything, you know. <br> ⚡️ Fun fact: 404
 
 
