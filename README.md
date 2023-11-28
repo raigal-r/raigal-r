@@ -21,8 +21,16 @@
 🤝 feel free to contact me if you feel I could help you, really<br>
 <br>
 💬 I love to chat, ask me anything, but not really anything, you know. <br>
+<ul> Some ideas: 
+     <li>🧝🏻‍♀️ Fantasy & Science Fiction (currently reading Mistborn by Brandon Sanderson)</li>
+     <li>🌍 I do love history and debate about the past and the parallelism with the present</li>
+     <li>📜 Also getting more into ancient philosofy</li>
+     <li>🥦 Healthy habits, wellness and traditional medicine</li>
+     <li>🥗 a big big foodie</li>
+     <li>⛓️ and of course, CODE</li>
+</ul>  
 <br>
-⚡️ Fun fact: 404
+⚡️ Fun fact: 404 - I'm not funny
 <br>
 
 ## 🌐 Socials:
