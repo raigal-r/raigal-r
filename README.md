@@ -19,8 +19,8 @@
 <br>
 🤝 feel free to contact me if you feel I could help you, really<br>
 <br>
-💬 I love to chat, ask me anything, but not really anything, you know. <br>
-<ul> Some ideas: 
+💬 I love to chat, ask me anything, but not really anything, you know. Some ideas:  <br>
+<ul> 
      <li>🧝🏻‍♀️ Fantasy & Science Fiction (currently reading Mistborn by Brandon Sanderson)</li>
      <li>🌍 I do love history and debate about the past and the parallelism with the present</li>
      <li>📜 Also getting more into ancient philosofy</li>
