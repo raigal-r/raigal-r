@@ -36,6 +36,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-carrasco-gonzalez/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@rraigal_) 
 
 # 💻 Tech Stack:
-[![](https://visitcount.itsvg.in/api?id=raigal-r&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raigal-r&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
