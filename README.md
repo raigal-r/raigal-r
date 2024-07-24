@@ -11,7 +11,7 @@
      <li>🥇🥇 HackZuzalu Istanbul - ZK track & Social track with [ZuAstro](https://dorahacks.io/buidl/7976)</li>
      <li>🏆 ETH Global Istanbul Finalist with [BuddyGuard]()</li>
      </ul>
-👩🏻‍🔧 I'm currently working on [PEERUP]( https://github.com/PEERWORK ), a dApp to democratizing entrepreneurship and helping hackathon projects take off as DAOs<br>
+👩🏻‍🔧 I'm currently working on Budy Guard, a safety dApp to empower solo travelers and digital nomads<br>
 <br>
 🧠 always learning something new, do you want to be a study buddy? Now learning ZK and blockchain.<br>
 <br>
